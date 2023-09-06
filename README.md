@@ -24,6 +24,3 @@ The application features a note-taking app that allows users to perform a variet
 ```
 git clone https://github.com/your-username/your-repository.git
 ```
-2. 
-3. 
-4. 
